@@ -1,0 +1,24 @@
+# Build folders
+x64/
+Debug/
+Release/
+
+# Visual Studio files
+.vs/
+*.sln
+*.vcxproj
+*.vcxproj.filters
+*.vcxproj.user
+
+# Compiled objects
+*.obj
+*.exe
+*.dll
+*.pdb
+*.ilk
+
+# Other
+*.log
+*.tmp
+*.cache
+*.ipynb_checkpoints
